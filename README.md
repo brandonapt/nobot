@@ -1,4 +1,4 @@
-# How to set up
+# How to Set RoBot Up
 
 You need node.js installed.
 
